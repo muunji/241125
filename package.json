@@ -1,0 +1,13 @@
+{
+  "name": "241125",
+  "version": "1.0.0",
+  "main": "./src/app.js",
+  "type" : "module",
+  "scripts": {
+    "test": "안녕"
+  },
+  "author": "muunji <twoji3019@naver.com>",
+  "license": "ISC",
+  "description": "",
+  "repository": "https://github.com/muunji/241125.git"
+}
